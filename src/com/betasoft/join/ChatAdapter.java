@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
+// testing the git hub
 public class ChatAdapter extends ArrayAdapter<ChatBean>{
 
 	Context context;
